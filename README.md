@@ -1,24 +1,19 @@
-# README
+# SHIPPED
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ A web prototype trading companies to keep users boats and contract jobs organized.
 
-Things you may want to cover:
+# Installation
 
-* Ruby version
+* Ruby 2.4.0
 
-* System dependencies
+* DB: PG
 
-* Configuration
+# Contributors
 
-* Database creation
+* Danna Wolf
 
-* Database initialization
+* Kevin Plaza
 
-* How to run the test suite
+* Miguel Myers
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
