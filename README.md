@@ -6,7 +6,7 @@
 
 * Ruby 2.4.0
 
-* DB: PG
+* DB: Postgres
 
 # Contributors
 
